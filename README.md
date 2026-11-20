@@ -73,18 +73,30 @@ tests/           logic + persistence tests
 
 ---
 
-# Part A: two feature suggestions
+# Part A: Two Feature Suggestions for Coy
 
-> **DRAFT: replace with your own observations.** These were written from the product's stated premise (mutual-only reveal), not from a walkthrough of the app. Add what you actually noticed while going through OTP login, adding a crush, email verification, the invite link and the extra-slots screen, since that is what the assignment asks for.
+After thinking about Coy's concept and how users interact with the platform, I came up with two features that I believe could make the experience better and more comfortable for users.
 
-### 1. Time-boxed icebreaker after a mutual reveal
+### 1. Conversation Starters After a Mutual Match
 
-**What:** When two people match, offer a shared prompt (a pick-one question or a tappable opener) and show a gentle "say hi within 48 hours" window.
+**What:** 
 
-**Why:** Mutual reveal is the hard part of Coy; the risk is that it ends in a screen and nothing happens. Matches that never turn into a conversation make the core promise feel empty, and the first message is the most common drop-off point because it feels awkward for shy users, which is exactly Coy's audience. An opener lowers that barrier, and a soft deadline gives a reason to act now. It also gives you a measurable funnel (match → first message).
+When two people get a mutual match, Coy could show a few simple conversation starters or fun questions to help them break the ice. For example, users could see suggestions like "What's something that always makes you smile?" or "Who do you think made the first move?"
 
-### 2. "Hide me from" list
+**Why I think this is useful:**
 
-**What:** Let users privately list people (by phone number or contact) they never want to be discoverable by, such as exes, relatives or colleagues. It is one-directional and the other person is never told.
+Getting a mutual match is exciting, but sometimes the hardest part is knowing what to say next. Not everyone feels comfortable starting a conversation, even when both people are interested. I think these suggestions could make that first step easier and encourage users to take things forward instead of just seeing a match and leaving the app.
 
-**Why:** Any discovery surface can show you to people you'd rather avoid, and users who fear that stop using it. A hide list removes that fear without breaking the mutual-only promise, because nothing is revealed to anyone. It matters more once Discover exists, since profiles are shown to strangers in the same city or college, where overlap with people you know is likely.
+### 2. Private Hide List
+
+**What:**
+
+Coy could allow users to add specific phone numbers or contacts to a private hide list. People on this list would not be able to discover the user's profile, and the user would not be shown their profile either.
+
+**Why I think this is useful:**
+
+Privacy is especially important in an app like Coy. Users might not want their profile to appear to certain people, such as family members, colleagues, ex-partners or people they already know. Having this option would give users more control over who can discover them and make them feel safer using the platform.
+
+### Final Thoughts
+
+I believe these two features could improve Coy in different ways. Conversation starters would make mutual matches more meaningful, while the private hide list would give users greater control over their privacy. Both features would add value without changing the basic idea behind Coy.
